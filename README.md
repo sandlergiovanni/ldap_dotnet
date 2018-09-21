@@ -1,6 +1,6 @@
 # ldap_dotnet
 
-Criando classe java de tratamento de Guid "SystemLdap".
+Criando classe .net de tratamento de conexão "SystemLdap".
 
 ## Quick Start
 Está classe realizar a comunicação com o  ***LDAP*** informando os parâmetro usuário & senha.
